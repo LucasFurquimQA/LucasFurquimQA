@@ -22,7 +22,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasfurquimqa&show_icons=true&locale=pt-br&theme=midnight-purple" alt="lucasfurquimqa" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfurquimqa&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-br" height="160" />
 
-![snake svg](https://github.com/LucasFurquimQA/LucasFurquimQA/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">Me acompanhe</h3>
   <p align="center">
