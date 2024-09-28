@@ -1,11 +1,9 @@
 <h1 align="center">Olá 👋, me chamo Lucas</h1>
 <h3 align="center">Tester em São Paulo, Brazil</h3>
 
-- 🔭 Atualmente trabalho com: **Testes Manuais**
+- 🔭 Atualmente trabalho com: **Testes Manuais, Automações e Testes não funcionais (performance)**
 
-- 🌱 Estou aprendendo: **Automação com Ruby + Selenium**
-
-- ⚡ Fato curioso: **Eu sou Streamer na Twitch 💟 nas horas vagas**
+- 🌱 Estou aprendendo: **Gestão de Projetos (MBA)**
 
 <h3 align="left">Conhecimento nas ferramentas:</h3>
 <p align="left">
