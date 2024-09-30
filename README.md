@@ -21,12 +21,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfurquimqa&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-br" height="160" />
 
 
-<h3 align="center">Me acompanhe</h3>
+<h3 align="center">Me acompanhe!</h3>
   <p align="center">
     <a href ="mailto:l.furquim09@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-l.furquim09" target="_blank" />
     </a>
-    <a href="https://linkedin.com/in/lucas-furquim-qa" >
+    <a href="https://www.linkedin.com/in/lucasfurquimqa/" >
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-lucas-furquim-qa" target="blank" />
     </a>
     <a href="https://discord.gg/Zsxwn5SQX5" >
@@ -34,12 +34,6 @@
     </a>
     <a href="https://instagram.com/lfurquim__" >
       <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-lfurquim__" target="blank" />
-    </a>
-    <a href="https://twitter.com/lfurquim__" >
-      <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-lfurquim__" target="blank" />
-    </a>
-    <a href="https://fb.com/lucasfurquim09" >
-      <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook-lucasfurquim09" target="blank" />
     </a>
     <a href ="https://steamcommunity.com/id/septem_br/" >
       <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam-septem_br" target="_blank" />
