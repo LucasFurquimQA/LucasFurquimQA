@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasfurquimqa&show_icons=true&locale=pt-br&theme=midnight-purple" alt="lucasfurquimqa" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfurquimqa&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-br" height="160"/>
-</p>
-
----
-
 ### 🌐 Me acompanhe
 
 <p align="center">
